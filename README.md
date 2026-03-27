@@ -1,14 +1,14 @@
 Тут будет всякое за 3 курса ФОПФа.
 
-##Содержание этого репо:
+## Содержание этого репо:
 
 [Вычматы (пилотные)](../compmath/)
 
 [Опты (фупмовские)](../optim/)
 
-##Полезные ссылки и диски: 
+## Полезные ссылки и диски:
 
-[Продва карасева (кроме 1 семестра) и другие приколы](https://drive.google.com/drive/folders/1gyCR9OFpfZcUPmenGZO1NZwoAA6nkqZ6)
+[Продва карасева (кроме 1 семестра) и другие приколы от ЕШ](https://drive.google.com/drive/folders/1gyCR9OFpfZcUPmenGZO1NZwoAA6nkqZ6)
 
 [Анмех (база)](https://drive.google.com/drive/folders/1PS5Az8CgHrWGResn0yfsWYGVQvFIQFvE?usp=drive_link)
 
