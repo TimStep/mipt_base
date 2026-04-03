@@ -1,0 +1,5 @@
+BARNARDO said 11 phrases
+FRANCISCO said 8 phrases
+HORATIO said 5 phrases
+MARCELLUS said 4 phrases
+Average message length: 367.5

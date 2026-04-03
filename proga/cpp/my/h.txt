@@ -1,0 +1,373 @@
+    1  dnf grouplist -v
+    2  dnf install @xfce-desktop-environment
+    3  sudo dnf install @xfce-desktop-environment
+    4  yum install xfce4-netload-plugin
+    5  sudo yum install xfce4-netload-plugin
+    6  sudo yum update 
+    7  sudo yum upgrade 
+    8  bluetoothctl 
+    9  cd ~
+   10  sudo mkdir .themes 
+   11  ls -l | grep th
+   12  ls -l | grep .th
+   13  ls -l
+   14  cd ~
+   15  ls -l
+   16  bluetoothctl 
+   17  dnf update
+   18  sudo dnf update
+   19  sudo dnf install telegram
+   20  flatpak install flathub org.telegram.desktop
+   21   systemctl restart NetworkManager
+   22  dnf install network-manager-applet
+   23  sudo dnf install network-manager-applet
+   24  discord
+   25  flatpak install flathub md.obsidian.Obsidian
+   26  flatpak install flathub io.github.alainm23.planify
+   27  dnf grouplist -v
+   28  dnf install @kde-desktop-environment
+   29  sudo dnf install @kde-desktop-environment
+   30  systemctl --user restart pipewire.service 
+   31  bluetoothctl 
+   32  sudo dnf update
+   33  sudo flatpak update 
+   34  sudo dnf install kvantum
+   35  sudo yum update
+   36  sudo yum install java-11-openjdk
+   37  sudo update-alternatives --config java
+   38  java --version
+   39  sudo java -jar ./Programs/Games/TLauncher.v10/
+   40  sudo java -jar ./Programs/Games/TLauncher.v10/TLauncher.jar 
+   41  sudo java -jar ./Programs/Games/TLauncher.v10/TLauncher.jar 
+   42   $ dnf install transmission 
+   43  dnf install transmission 
+   44  sudo dnf install transmission
+   45  systemctl --user restart pipewire.service 
+   46  bluetooth
+   47  bluetoothctl 
+   48  bluetoothctl 
+   49  pipewire
+   50  systemctl --user restart pipewire.service 
+   51  pipewire
+   52  sudo reboot 
+   53  flatpak install flathub com.heroicgameslauncher.hgl
+   54  pipewire
+   55  bluetoothctl 
+   56  sudo flatpak update 
+   57  sudo dnf install nfs-utils
+   58  sudo systemctl enable --now nfs-server.service
+   59  setsebool -P nis_enabled 1
+   60  sudo setsebool -P nis_enabled 1
+   61  sudo dnf update
+   62  sudo flatpak update 
+   63  bluetoothctl 
+   64  flatpak remote
+   65  flatpak remotes
+   66  flatpak --list
+   67  flatpak --help
+   68  bluetoothctl 
+   69  sudo dnf install protontricks
+   70  protontricks -l
+   71  protontricks 329050 consolas
+   72  bluetoothctl
+   73  bluetoothctl 
+   74  cd ./Games/Devil\ May\ Cry\ Anthology/
+   75  cd Devil\ May\ Cry\ 5/
+   76  start.sh
+   77  ./start.sh 
+   78  ./start.sh --gst-disable-segtrap --gst-disable-registry-fork
+   79  WINEPREFIX=./prefix winetricks wmp9
+   80  WINEPREFIX=/home/tim/Games/Devil\ May\ Cry\ Anthology/Devil\ May\ Cry\ 5/prefix/ winetricks wmp9
+   81  ./start.sh --gst-disable-segtrap --gst-disable-registry-fork
+   82  dnf check-update 
+   83  bluetoothctl 
+   84  sudo dnf update
+   85  sudo flatpak update 
+   86  bluetoothctl 
+   87  sudo dnf update
+   88  sudo flatpak update 
+   89  sudo reboot 
+   90  lsusb
+   91  lsusb
+   92  lsusb
+   93  bluetoothctl 
+   94  bluetoothctl 
+   95  systemctl --user restart bluetooth.target 
+   96  bluetoothctl ]
+   97  bluetoothctl 
+   98  systemctl --user restart pipewire.service 
+   99  loginctl show-session 92 -p Type
+  100  loginctl show-session 2 -p Type
+  101  loginctl show-session 1 -p Type
+  102  loginctl show-session 0 -p Type
+  103  loginctl show-session 9 -p Type
+  104  flatpak install flathub io.github.spacingbat3.webcord
+  105  sudo dnf update
+  106  systemctl --user restart pipewire
+  107  flatpak list
+  108  sudo flatpak uninstall io.github.spacingbat3.webcord
+  109  sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
+  110  sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
+  111  sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
+  112  systemctl --user restart pipewire
+  113  flatpak list 
+  114  flatpak uninstall moe.launcher.the-honkers-railway-launcher
+  115  flatpak install launcher.moe moe.launcher.honkers-launcher
+  116  flatpak uninstall moe.launcher.honkers-launcher
+  117  sudo dnf update
+  118  systemctl --user restart pipewire.service 
+  119  sudo dnf update
+  120  flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  121  flatpak remote-add --if-not-exists kdeapps https://distribute.kde.org/flatpak-apps-testing/
+  122  flatpak remote-add --if-not-exists kdeapps https://distribute.kde.org/flatpak-apps-testing/
+  123  flatpak install --user --or-update https://cdn.kde.org/flatpak/xwaylandvideobridge-nightly/org.kde.xwaylandvideobridge.flatpakref
+  124  flatpak run org.kde.xwaylandvideobridge
+  125  flatpak install org.kde.xwaylandvideobridge
+  126  flatpak install flathub org.kde.xwaylandvideobridge
+  127  bash ./XWayland-Video-Bridge-Setup.sh 
+  128  flatpak run org.kde.xwaylandvideobridge
+  129  flatpak run org.kde.xwaylandvideobridge
+  130  flatpak install org.kde.kpipewire
+  131  dnf list *kpipe*
+  132  dnf install kpipewire
+  133  sudo dnf install kpipewire
+  134  flatpak run org.kde.xwaylandvideobridge
+  135  flatpak run org.kde.xwaylandvideobridge
+  136  export -n SESSION_MANAGER
+  137  flatpak run org.kde.xwaylandvideobridge
+  138  flatpak list
+  139  flatpak list
+  140  bluetoothctl 
+  141  sudo dnf update
+  142  sudo flatpak update 
+  143  systemctl --user restart pipewire
+  144  bluetoothctl 
+  145  systemctl --user restart pipewire
+  146  systemctl --user restart pipewire
+  147  dnf swap --allowerasing pipewire-pulseaudio pulseaudio
+  148  sudo dnf swap --allowerasing pipewire-pulseaudio pulseaudio
+  149  dnf remove pipewire-alsa pipewire-jack-audio-connection-kit
+  150  sudo dnf remove pipewire-alsa pipewire-jack-audio-connection-kit
+  151  dnf install alsa-plugins-pulseaudio
+  152  sudo dnf install alsa-plugins-pulseaudio
+  153  systemctl --global enable pulseaudio.service
+  154  systemctl --global enable pulseaudio.service 
+  155  systemctl --global enable pulseaudio.service 
+  156  sudo systemctl --global enable pulseaudio.service 
+  157  sudo dnf update
+  158  flatpak run com.valvesoftware.Steam
+  159  steam
+  160  dnf list
+  161  dnf list | grep st
+  162  dnf list | grep steam
+  163  sudo dnf install steam -y
+  164  pulseaudio 
+  165  pipewire 
+  166  flatpak install flathub com.obsproject.Studio
+  167  sudo dnf install pavucontrol
+  168  pulseaudio -k
+  169  pulseaudio 
+  170  pulseaudio --check
+  171   pulseaudio -D
+  172  sudo dnf install pipewire-pulse
+  173  systemctl --user restart pipewire.service 
+  174  sudo reboot 
+  175  sudo dnf swap --allowerasing pulseaudio pipewire-pulseaudio
+  176  sudo reboot 
+  177  systemctl --user restart pipewire.service 
+  178  sudo dnf update
+  179  sudo flatpak update 
+  180  sudo dnf update
+  181  sudo dnf update
+  182  sudo dnf update
+  183  sudo flatpak update 
+  184  sudo dnf update
+  185  killall plasmashell && plasmashell
+  186  sudo dnf update
+  187  sudo flatpak update 
+  188  bluetoothctl 
+  189  sudo dnf update
+  190  sudo flatpak update 
+  191  sudo reboot 
+  192  /home/tim/Dev/.venv/bin/python "/home/tim/Dev/DevPy/random stuff/random_test.py"
+  193  /home/tim/myenv/bin/python "/home/tim/Dev/DevPy/random stuff/random_test.py"
+  194  /home/tim/myenv/bin/python
+  195  /home/tim/myenv/bin/python "/home/tim/Dev/DevPy/random stuff/random_test.py"
+  196  /bin/python3 /home/tim/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariablesToFile.py /home/tim/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  197  sudo dnf update
+  198  sudo flatpak update 
+  199  python -m venv myenv
+  200  . ~/myenv/bin/activate
+  201  python
+  202  pip install numpy
+  203  pip install --upgrade pip
+  204  pip install matplotlib
+  205  pip install pandas
+  206  python
+  207  python
+  208  pip install notebook
+  209  sudo dnf install texlive-scheme-full
+  210  sudo dnf install texlive-scheme-full
+  211  sudo dnf update
+  212  sudo flatpak update 
+  213  sudo dnf install texmaker
+  214  sudo dnf update
+  215  sudo dnf install kolourpaint
+  216  sudo dnf install gimp
+  217  deactivate 
+  218  sudo rpm -i ./Programs/InstallationPackages/XPPenLinux-3.4.9-231023.rpm 
+  219  sudo reboot 
+  220  bluetoothctl 
+  221  sudo dnf update
+  222  sudo flatpak update 
+  223  kscreen-doctor 
+  224  [200~kscreen-doctor --outputs~
+  225  kscreen-doctor --outputs~
+  226  kscreen-doctor --outputs
+  227  kscreen-doctor --help
+  228  kscreen-doctor output.eDP-1.rotation.inverted
+  229  kscreen-doctor output.eDP-1.rotation.inverted
+  230  kscreen-doctor output.eDP-1.rotation.none
+  231  sy
+  232  bluetoothctl 
+  233  sudo dnf update
+  234  cd ./Dev/DevML/QuantumHiddenManifold/
+  235  nano README.md
+  236  git init
+  237  git add .
+  238  git commit -m 'initial commit'
+  239  git commit -m 'initial commit'
+  240  git config --list
+  241  git config --list --show-origin 
+  242  git config --global user.name "Tim"
+  243  git config --global user.email "tim060512@gmail.com"
+  244  git config --list --show-origin 
+  245  git config --global user.name "TimStep"
+  246  git config --list --show-origin 
+  247  git commit -m 'initial commit'
+  248  git branch -M main
+  249  git remote add origin git@github.com:TimStep/QManifold.git
+  250  git push -u origin main
+  251  cd ~
+  252  sudo dnf update
+  253  sudo dnf update
+  254  sudo dnf update
+  255  sudo flatpak update 
+  256  sudo reboot 
+  257  cd ~
+  258  cat ~/.ssh/id_ed25519.pub
+  259  cat ~/.ssh/id_ecdsa.pub 
+  260  sudo dnf update
+  261  sudo flatpak update 
+  262  sudo reboot 
+  263  ytmusicapi oauth
+  264  python -m spotify2ytmusic ytoauth
+  265  . ~/spotienv/bin/activate
+  266  python -m spotify2ytmusic ytoauth
+  267  sudo dnf update
+  268  sudo flatpak update 
+  269  dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+  270  sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+  271  dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+  272  sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+  273  dnf install vlc
+  274  sudo dnf install vlc
+  275  sudo dnf remove vlc
+  276  flatpak install flathub org.videolan.VLC
+  277  sudo dnf remove vlc
+  278  sudo dnf update
+  279  cd ./Dev/DevML/QuantumHiddenManifold/
+  280  ls -l
+  281  git pull
+  282  nano README.md 
+  283  git add .
+  284  git commit -m 'update readme file'
+  285  git push
+  286  sudo dnf update
+  287  sudo dnf update
+  288  sudo flatpak update 
+  289  sudo reboot 
+  290  sudo dnf update
+  291  sudo flatpak update 
+  292  sudo dnf update
+  293  sudo flatpak update 
+  294  sudo dnf update
+  295  sudo flatpak update 
+  296  cd ./Dev/DevML/QuantumHiddenManifold/
+  297  git add .
+  298  git commit -m 'update readme file'
+  299  git push origin main
+  300  git pull
+  301  git config pull.rebase false
+  302  git pull
+  303  git push origin main
+  304  git add .
+  305  git commit -m 'update readme file'
+  306  git push 
+  307  git add .
+  308  git commit -m 'update readme file'
+  309  git push 
+  310  sudo dnf update
+  311  ls -l
+  312  cd ~
+  313  sudo dnf update
+  314  sudo flatpak update 
+  315  flatpak install flathub com.spotify.Client
+  316  python -m venv spotienv
+  317  . ~/spotienv/bin/activate
+  318  pip install spotify2ytmusic
+  319  pip install --upgrade pip
+  320  pip install spotify2ytmusic
+  321  python3 -m spotify2ytmusic gui
+  322  python3 -m spotify2ytmusic gui
+  323  ytmusicapi oauth
+  324  python3 -m spotify2ytmusic gui
+  325  python
+  326  python
+  327  /bin/python3 /home/tim/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariablesToFile.py /home/tim/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  328  /bin/python3 /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  329  ssh -L 7777:localhost:8888 62.210.129.211
+  330  ssh 62.210.129.211
+  331  ssh 62.210.129.211
+  332  cd ./Dev/DevML/QuantumHiddenManifold/
+  333  rsync -av --progress ./QManifold_local.ipynb 62.210.129.211:QManifold/
+  334  cd 
+  335  ssh 62.210.129.211
+  336  sudo dnf install git p7zip libwebp-tools
+  337  flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+  338  flatpak remote-add --if-not-exists launcher.moe https://gol.launcher.moe/gol.launcher.moe.flatpakrepo
+  339  . ./Programs/Games/sleepy-launcher 
+  340  sudo dnf update
+  341  . ./Programs/Games/sleepy-launcher 
+  342  cd ./Programs/Games/
+  343  ./sleepy-launcher 
+  344  curl -o/dev/null -k --connect-to ::google.com -k -L -H Host:\ mirror.gcr.io https://test.googlevideo.com/v2/cimg/android/blobs/sha256:6fd8bdac3da660bde7bd0b6f2b6a46e1b686afb74b9a4614def32532b73f5eaa
+  345  curl -o/dev/null -k --connect-to ::google.com -k -L -H Host:\ mirror.gcr.io https://test.googlevideo.com/v2/cimg/android/blobs/sha256:6fd8bdac3da660bde7bd0b6f2b6a46e1b686afb74b9a4614def32532b73f5eaa
+  346  curl -o/dev/null -k --connect-to ::google.com -k -L -H Host:\ mirror.gcr.io https://mirror.gcr.io/v2/cimg/android/blobs/sha256:6fd8bdac3da660bde7bd0b6f2b6a46e1b686afb74b9a4614def32532b73f5eaa
+  347  cd ~
+  348  sudo waydroid shell
+  349  curl -o/dev/null -k --connect-to ::google.com -k -L -H Host:\ mirror.gcr.io https://test.googlevideo.com/v2/cimg/android/blobs/sha256:6fd8bdac3da660bde7bd0b6f2b6a46e1b686afb74b9a4614def32532b73f5eaa
+  350  curl -o/dev/null -k --connect-to ::google.com -k -L -H Host:\ mirror.gcr.io https://test.googlevideo.com/v2/cimg/android/blobs/sha256:6fd8bdac3da660bde7bd0b6f2b6a46e1b686afb74b9a4614def32532b73f5eaa
+  351  curl -o/dev/null -k --connect-to ::google.com -k -L -H Host:\ mirror.gcr.io https://test.googlevideo.com/v2/cimg/android/blobs/sha256:6fd8bdac3da660bde7bd0b6f2b6a46e1b686afb74b9a4614def32532b73f5eaa
+  352  curl -o/dev/null -k --connect-to ::google.com -k -L -H Host:\ mirror.gcr.io https://mirror.gcr.io/v2/cimg/android/blobs/sha256:6fd8bdac3da660bde7bd0b6f2b6a46e1b686afb74b9a4614def32532b73f5eaa
+  353  ssh -L 2007:localhost:8888 tim@62.210.129.211
+  354  /bin/python3.12 /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  355  /bin/python3 /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  356  /bin/python /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/printEnvVariablesToFile.py /home/tim/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/deactivate/bash/envVars.txt
+  357   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-tr2z3jgy.lsb 
+  358  /bin/python /home/tim/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariablesToFile.py /home/tim/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  359  ssh -h
+  360  ssh --help
+  361  ssh -D tim@62.210.129.211
+  362  ssh -D 2006 tim@62.210.129.211
+  363  ssh -D 2006 tim@62.210.129.211
+  364  ssh -D 2006 tim@62.210.129.211
+  365  sudo dnf update
+  366  sudo flatpak update 
+  367  sudo dnf update
+  368  sudo flatpak update 
+  369  echo hello world
+  370  cd ./Dev/DevCpp/mipt/
+  371  nano hello_world.sh
+  372  chmod +x hello_world.sh 
+  373  ./hello_world.sh 
